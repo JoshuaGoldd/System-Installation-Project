@@ -28,7 +28,7 @@ PowerShell (Admin) is used to run required commands on Windows.
 - Open PowerShell as Administrator:
 **Start → type “PowerShell” → right-click → Run as administrator**
 
-![screenshot](/system-installation-project/Images/image-09.png)
+![image-9](/system-installation-project/Images/image-9.png)
 
 - Install Windows Terminal from Microsoft Store(Optional but recommended)
 - Open and run it in Administrator mode.
