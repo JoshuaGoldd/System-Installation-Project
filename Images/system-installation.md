@@ -33,7 +33,7 @@ PowerShell (Admin) is used to run required commands on Windows.
 - Install Windows Terminal from Microsoft Store(Optional but recommended)
 - Open and run it in Administrator mode.
 
-![screenshot image](./Images/image-19.png)
+![screenshot image](../Images/image-19.png)
 ![screenshot](./Images/image-20.png)
 
 ---
